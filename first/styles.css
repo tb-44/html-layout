@@ -1,0 +1,34 @@
+.main_header {
+    height: 50px;
+    width:100%;
+    background: #555;
+}
+
+.box {
+    height:90vh;
+    width:25%;
+    background: #999;
+    float: left;
+}
+
+/*.box:nth-child(3) {*/
+    /*width:50%;*/
+    /*background: lightseagreen;*/
+/*}*/
+
+.middle_box {
+    width:50%;
+    background: lightseagreen;
+}
+
+.top {
+    width:100%;
+    background: #fff;
+    height:70vh;
+}
+
+.bottom {
+    height:20vh;
+    width:100%;
+    background: #000;
+}
